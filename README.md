@@ -5,7 +5,7 @@
 AWSD 控制上下左右移动
 
 ## 游戏截图
-*   
+* 游戏开始  
 ![screenshot1](https://github.com/KazeLv/pictures/blob/master/project%20screenshot/RogueLike1.PNG)
 ![screenshot2](https://github.com/KazeLv/pictures/blob/master/project%20screenshot/RogueLike2.PNG)
 * 到达右上角 "EXIT" 处进入新一天的冒险  
